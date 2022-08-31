@@ -12,14 +12,15 @@ The following prerequisites are necessary:
 If you need help or get stuck, email devsandbox@redhat.com.
 If you find a defect, [create an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) in this repository.
 
-## Part 0: Install Prerequisites
-## Part 1: Create Kafka Instance
-## Part 2: Log in to RHOAS
-## Part 3: Use instance
-## Part 4: Create topic
-## Part 5: Connect to cluster
-## Part 6: Set ACL
-## Part 7: Bind to Deployment
+There are seven parts to this activity. Estimated time to complete is 10 minutes.
+* Part 0: Install Prerequisites
+* Part 1: Create Kafka Instance
+* Part 2: Log in to RHOAS
+* Part 3: Use instance
+* Part 4: Create topic
+* Part 5: Connect to cluster
+* Part 6: Set ACL
+* Part 7: Bind to Deployment
 
 ## Part 0: Install Prerequisites
 ### Step 0.1: Get your cluster
