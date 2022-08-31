@@ -7,6 +7,7 @@ The following prerequisites are necessary:
 1. An account in Red Hat OpenShift Sandbox (No problem; it's free). This is not actually *necessary*, since you can use this tutorial with any OpenShift cluster *as long as the Service Binding Operator is installed*.  If you don't have access to a cluster with the Service Binding Operator, or just want to experiment on your own, the OpenShift Sandbox is perfect.    
 1. The `oc` command-line tool for OpenShift. There are instructions later in this article for the installation of `oc`.
 1. The `rhoas` command-line tool for Red Hat service binding. There are instructions later in this article for the installation of `rhoas`.  
+1. Because this activity is part of the "vac-seen" system, you must first complete the instructions for [the "vac-seen-web" application](https://github.com/donschenck/vac-seen-web).
 
 ## Need help?
 If you need help or get stuck, email devsandbox@redhat.com.
