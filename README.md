@@ -151,6 +151,10 @@ Click on the blue "Load token" button to review a token which can be copied to y
 Click the small "copy" icon on the right side of the API token to copy the token to your machine's clipboard.
 
 ### Step 5.4
+If you have been using a Managed Kafka instance that has expired, you need to remove the objects associated with the old instance. Run this command to do that:  
+`rhoas cluster clean`
+
+### Step 5.5
 With the token in your machine's clipboard, run the following command:
 
 `rhoas cluster connect --token {{insert_your_token_here}}`
